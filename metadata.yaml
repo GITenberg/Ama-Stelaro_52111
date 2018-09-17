@@ -1,5 +1,8 @@
 _repo: Ama-Stelaro_52111
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52111-h/images/cover.jpg
 creator:
   author:
     agent_name: Baena, Nuno
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46683
     wikipedia: https://eo.wikipedia.org/wiki/Nuno_Baena
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52111#Ama-Stelaro
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2016-05-20'
 gutenberg_type: Text
