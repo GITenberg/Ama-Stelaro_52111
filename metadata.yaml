@@ -1,0 +1,41 @@
+_repo: Ama-Stelaro_52111
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baena, Nuno
+    aliases:
+    - Forgesito, La
+    - Rodrigues, Nuno Alvares
+    - La Forgesito
+    birthdate: 1865
+    deathdate: 1922
+    gutenberg_agent_id: '46683'
+    url: http://www.gutenberg.org/2009/agents/46683
+    wikipedia: https://eo.wikipedia.org/wiki/Nuno_Baena
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2016-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52111'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Translations into Esperanto'
+- !lcsh 'Esperanto literature'
+- !lcc 'PM'
+- GITenberg
+tableOfContents: Dediĉo -- Al la leganto -- La korvo kaj la vulpo (trad. el Coelho
+  Netto) -- La nigra papilio (trad. el Olavo Bilac) -- Trioleto (originale verkita)
+  -- Alvoko (trad. el João Baena) -- Sola (originale verkita) -- Kiel knabo povas
+  sin mem rekomendi (trad. el angla lingvo) -- Rozoj, rozoj ... (originale verkita)
+  -- La horloĝo (originale verkita) -- Lulkanto (originale verkita) -- Se mi estus
+  riĉa ... (laŭmemore verkita) -- Marmeze (originale verkita) -- Vero vera (originale
+  verkita) -- Neĝa statuo (originale verkita) -- Inter nuboj (originale verkita) --
+  Confiteor (trad. el Luiz Guimarães Filho) -- Miraklo (originale verkita) -- Ami
+  estas mia penso (originale verkita) -- Lina el Moskvo (trad. el Dro Nuno de Andrade)
+  -- Destino (trad. el nekonata aŭtoro).
+title: Ama Stelaro
+url: http://www.gutenberg.org/ebooks/52111
